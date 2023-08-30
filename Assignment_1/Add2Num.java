@@ -1,4 +1,4 @@
-package Assignment_1;
+
 //Write a Java program to add two numbers.
 
 import java.util.Scanner;
