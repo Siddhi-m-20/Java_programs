@@ -52,3 +52,15 @@ public class SepOddEven {
         }
     }
 }
+
+
+
+=====OUTPUT=======
+Enter the value of n:
+9
+ARRAY:
+20    85    28    26    89    99    81    41    70
+EVEN:
+20    28    26    70
+ODD:
+85    89    99    81    41
