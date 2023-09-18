@@ -70,4 +70,16 @@ public class ArrDesc{
     }
 
 }
+
+
+
+
+
+=====OUTPUT======
+
+Enter length of the array:
+10
+The Original Array is:    50   17   40   16   74   28   59   35   31   61
+The Sorted Array is:    74   61   59   50   40   35   31   28   17   16
+
   
