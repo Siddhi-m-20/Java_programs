@@ -1,7 +1,7 @@
 import person.*;
 import java.util.Scanner;
 
-public class PersonRole extends Student{
+public class PersonRole{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int choice;
